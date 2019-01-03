@@ -1,11 +1,5 @@
 ## Inbox
-- [ ] Get LimbLab Todo lists setup
-- [ ] Schedule MRI for Snap
-- [ ] Figure out when to go to UofC
-- [ ] Microflex
-- [ ] NUIN Talk
-  - [ ] Talk with Lee more on Friday
-    
+Complete or reassign to project _today_!
 
 ## Long-term Projects
 ### LimbLab
@@ -15,6 +9,8 @@
  [MRI](Projects/MRI_Notes.md)
  [Ultrasound](Projects/Ultrasound_Notes.md)
  [Handle Forces](Projects/HandleForces_Notes.md) 
+ [NUIN Talk](Projects/NUINtalk_Notes.md)
+ [NUIN 480](NUIN480_Notes.md)
  
 ### TingLab
  [JEB Rat Paper](Projects/2019JEB_ratsNotes.md)
