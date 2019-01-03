@@ -11,7 +11,7 @@ Complete or reassign to project _today_!
  [Handle Forces](Projects/HandleForces_Notes.md) 
  [NUIN Talk](Projects/NUINtalk_Notes.md)
  [NUIN 480](NUIN480_Notes.md)
- 
+
 ### TingLab
  [JEB Rat Paper](Projects/2019JEB_ratsNotes.md)
  [JEB Yank Commentary](Projects/2019JEB_yankNotes.md)
