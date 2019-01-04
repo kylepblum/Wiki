@@ -1,5 +1,5 @@
 ## Manipulandum load cell
-:tag1: :tag2: 
+:Raeed: :Sam: :Lee:
 
 ### Motivation
 - Make sure the load data is accurate/ properly calibrated

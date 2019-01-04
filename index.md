@@ -1,9 +1,6 @@
 ## Inbox
 Complete or reassign to project _today_!
-
-- [ ] Read before 15:30 01/03
-  - [ ] [Seelke et al. 2011](/Users/kylepblum/Library.papers3/Articles/2011/Seelke/Cerebral Cortex 2011 Seelke.pdf)
-  - [ ] [Padberg et al. 2018](/Users/kylepblum/Library.papers3/Articles/2018/Padberg/J. Comp. Neurol. 2018 Padberg.pdf)
+- [ ] 
  
 ## Current Projects
 ### LimbLab
