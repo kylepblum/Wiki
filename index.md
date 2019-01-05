@@ -1,5 +1,7 @@
 ## Inbox
 Complete or reassign to project _today_!
+- [ ] Find muscle lecture slides from Emory class
+- [ ] Make muscle phys/modeling presentation for Tuesday
 - [ ] 
  
 ## Current Projects
