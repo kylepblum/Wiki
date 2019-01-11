@@ -6,9 +6,6 @@
 - We want to determine whether stimulation in area 5 could produce directional percepts, akin to Tucker's results
 
 ### Actions
-- [o] Meeting with Leah Friday
-  - [X] Time?
-  - [ ] Discuss area 5
 
 ### Notes
 - 

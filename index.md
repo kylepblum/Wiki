@@ -1,17 +1,18 @@
 ## Inbox
 Complete or reassign to project _today_!
-- [ ] Find muscle lecture slides from Emory class
-- [ ] Make muscle phys/modeling presentation for Tuesday
-  - [ ] Put together outline
-  - [ ] Get figures
-  - [ ] Model demos?
-  - [ ] Published examples of each model type
-    - [ ] Activation dynamics
-    - [ ] Hill
-    - [ ] Sarcomere
-    - [ ] (Tendon?) - at least explain how this impacts results
-- [ ] Select papers to present (NUIN 480)
-
+- [ ] Data analysis
+  - [ ] Plot trial data
+  - [ ] Smooth firing rates
+  - [ ] compare muscle lengths to firing rates
+  - [ ] Try using a different data file so I can use the TrialData code
+- [ ] Load Cell? Talk to Raeed.
+- [ ] Comment through Yufei's code
+- [ ] Everything we need to precisely implant shanks? (Talk to Sam)
+- [ ] Order microflex arrays
+ 
+## Waiting For
+- [ ] Joey 
+      
 ## Current Projects
 ### LimbLab
 - [Area 3a](Projects/Area3a_Notes.md)
