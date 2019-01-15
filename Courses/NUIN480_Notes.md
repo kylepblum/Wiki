@@ -16,9 +16,13 @@ Reading Material
 - [Tasic et al. 2018](file:/Users/kylepblum/Library.papers3/Articles/2018/Tasic/Nature 2018 Tasic.pdf)
 - 
 #### Week 2
-- [2019-01-14 Sensorimotor Integration within the Spinal Cord](2019-01-14.md)   
+- [2019-01-14 Sensorimotor Integration within the Spinal Cord](Week2-SpinalCord/2019-01-14.md)   
 - [2019-01-18 Discussion](2019-01-18.md) 
 Reading Material
+- [Heckman and Enoka 2004](file://Users/kylepblum/Library.papers3/Books/2004/Heckman/Clinical Neurophysiology of Motor Neuron Diseases 2004 Heckman.PDF)
+- [Henneman et al. 1965]()
+- [Bellardita et al. 2017]()
+- [Azim et al. 2014]()
 
 #### Week 3
 - [2019-01-22 Motor Cortical Representation of Arm Movement](2019-01-22.md) 
