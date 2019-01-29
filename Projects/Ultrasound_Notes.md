@@ -8,7 +8,7 @@
 - [ ] Review list of NU folks that use Ultrasound
   - message:<43293382cd0f4a6fab2eb279513e4fa5@EVCSPMBX01.ads.northwestern.edu>
 - [ ] Talk to Lee about next steps
-
+- [ ] Get in touch with Wendy Murray
 ### Notes
 - 
 

@@ -5,7 +5,7 @@
 - To get brain structure data for better MEA implantation
 
 ### Actions
-- [ ] Coordinate with CCM about timimng
+- [ ] Snap MRI Scheduled Feb 6th 7am-11am
 
 ### Notes
 - 

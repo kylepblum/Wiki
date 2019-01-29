@@ -3,7 +3,9 @@
 ## 2019
 
 ### January
-        * [Monday, January 14th](2019-01-14)
+        * [Friday, January 18th](2019-01-18)
+        * [Wednesday, January 16th](2019-01-16)
+        * [Tuesday, January 15th](2019-01-15)
         * [Friday, January 11th](2019-01-11)
         * [Wednesday, January 9th](2019-01-09)
         * [Tuesday, January 8th](2019-01-08)
