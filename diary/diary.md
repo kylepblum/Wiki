@@ -3,6 +3,9 @@
 ## 2019
 
 ### January
+        * [Wednesday, January 30th 2019](2019-01-30)
+        * [Tuesday, January 29th 2019](2019-01-29)
+        * [DayOfWeek, Month DayOfMonth](2019-01-28)
         * [Friday, January 18th](2019-01-18)
         * [Wednesday, January 16th](2019-01-16)
         * [Tuesday, January 15th](2019-01-15)

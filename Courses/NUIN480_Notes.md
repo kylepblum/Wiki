@@ -5,10 +5,11 @@
 - Course covering the Neural Control of Movement
 
 ### Actions 
-- [ ] Get ready for paper presentation on Friday
-- [ ] Read other two papers for class
 
 ### Notes
+
+#### Final Paper
+- [Outline](FinalPaperOutline.md)
 
 #### Week 1
 - [Slides](file:/Users/kylepblum/Documents/LimbLab/NUIN480/NUIN480Week1Shepherd.pdf)
@@ -41,7 +42,24 @@ Reading Material
 - [Harrison et al. 2012](file://Users/kylepblum/Library.papers3/Articles/2012/Harrison/Neuron_2012_Harrison.pdf)
 - [Kawai et al. 2015](file://Users/kylepblum/Library.papers3/Articles/2015/Kawai/Neuron_2015_Kawai.pdf) 
 - [Pruszynski et al. 2011](file://Users/kylepblum/Library.papers3/Articles/2011/Pruszynski/Nature_2011_Pruszynski.pdf) 
-  
+
+#### Week 5 
+- [Slides]()
+- [2019-02-04 Brain-Machine Interfaces](Week5-BMI/2019-02-04)
+
+Reading Material
+- [Ganguly and Carmena 2009](file://Users/kylepblum/Library.papers3/Articles/2009/Ganguly/2009_Ganguly.pdf)
+- [Wodliner et al 2014](file://Users/kylepblum/Library.papers3/Articles/2014/Wodlinger/J._Neural_Eng._2014_Wodlinger.pdf)
+- [Sadtler et al. 2014](file://Users/kylepblum/Library.papers3/Articles/2014/Sadtler/Nature_2014_Sadtler.pdf)
+- [Bensmaia and Miller 2014](file://Users/kylepblum/Library.papers3/Articles/2014/Bensmaia/Nature_Publishing_Group_2014_Bensmaia.pdf)
+
+#### Week 6
+- Slides
+- [2019-02-11 Cerebellum](Week6-Cerebellum/2019-02-11.md)
+- 
+
+
+
 ### Misc
 - 
 
