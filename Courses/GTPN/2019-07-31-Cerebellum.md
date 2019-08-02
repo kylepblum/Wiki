@@ -1,5 +1,5 @@
 ## Function of the Cerebellum
-#### Peter Thiel
+#### Peter Thier 
 
 ### Misc notes
 - Sea squirt

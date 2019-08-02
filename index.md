@@ -26,7 +26,7 @@ Complete or reassign to project _today_!
 - [Muscle-tendon Models](Projects/MTmodels_notes.md)
 - [Muscle State to Afferent Potentials](Projects/MusState2AffPot.md) 
 - [Spindle Model](Projects/SpindleModel.md)
-
+- 
 
 ### TingLab
 - [Mechanistic Manuscript](Projects/2019_MechSpindleModelNotes.md)
