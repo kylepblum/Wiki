@@ -16,8 +16,15 @@
 ### Publications
 - [ ] 2019 JEB Rat Paper
 - [ ] 2019 JEB Commentary
-- [ ] 
-
+- [ ] 2018 PLoS One pendulum test paper
 
 ### Paper reviews
 - [ ] Comms Bio review
+- [ ] Nature Comms review
+
+
+### Mentorship
+- [ ] Nathan Schimpf
+
+### Teaching
+- [ ] NUIN Teaching Fellowship
